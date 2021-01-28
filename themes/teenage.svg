@@ -1,13 +1,1 @@
-<svg width="96px" height="64px" xmlns="http://www.w3.org/2000/svg" baseProfile="full" version="1.1">
-  <rect width='96' height='64' id='background' fill='#a1a1a1'></rect>
-  <!-- Foreground -->
-  <circle cx='24' cy='24' r='8' id='f_high' fill='#222222'></circle>
-  <circle cx='40' cy='24' r='8' id='f_med' fill='#e00b30'></circle>
-  <circle cx='56' cy='24' r='8' id='f_low' fill='#888888'></circle>
-  <circle cx='72' cy='24' r='8' id='f_inv' fill='#ffffff'></circle>
-  <!-- Background -->
-  <circle cx='24' cy='40' r='8' id='b_high' fill='#555555'></circle>
-  <circle cx='40' cy='40' r='8' id='b_med' fill='#fbba2d'></circle>
-  <circle cx='56' cy='40' r='8' id='b_low' fill='#b3b3b3'></circle>
-  <circle cx='72' cy='40' r='8' id='b_inv' fill='#0e7242'></circle>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="64" baseProfile="full" version="1.1"><rect id="background" width="96" height="64" fill="#a1a1a1"/><circle id="f_high" cx="24" cy="24" r="8" fill="#222"/><circle id="f_med" cx="40" cy="24" r="8" fill="#e00b30"/><circle id="f_low" cx="56" cy="24" r="8" fill="#888"/><circle id="f_inv" cx="72" cy="24" r="8" fill="#fff"/><circle id="b_high" cx="24" cy="40" r="8" fill="#555"/><circle id="b_med" cx="40" cy="40" r="8" fill="#fbba2d"/><circle id="b_low" cx="56" cy="40" r="8" fill="#b3b3b3"/><circle id="b_inv" cx="72" cy="40" r="8" fill="#0e7242"/></svg>
